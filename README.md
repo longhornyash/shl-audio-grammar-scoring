@@ -46,4 +46,4 @@ scipy
 ```
 
 ## Usage
-Run `shl-audio-scoring-solution.ipynb` on Kaggle with the competition dataset attached, or locally with the dataset in the expected directory structure.
+Run `yashaswi-shl-audio-scoring-solution.ipynb` on Kaggle with the competition dataset attached, or locally with the dataset in the expected directory structure.
